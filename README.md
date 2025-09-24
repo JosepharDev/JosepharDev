@@ -5,6 +5,7 @@
 💻 **Software Engineer | Backend Developer | Data Science Enthusiast**  
 ⚡ Passionate about building scalable systems, exploring data-driven solutions, and automating infrastructure.  
 
+[![<username>'s 42 stats](https://badge.mediaplus.ma/levi/yoyahya)](https://github.com/oakoudad/badge42)
 ---
 
 ## 🛠️ Tech Arsenal  
